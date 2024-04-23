@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\Csharp2204\Csharp2204\bin\Debug\Csharp2204.exe.config
+C:\Users\Tecnico\source\repos\Csharp2204\Csharp2204\bin\Debug\Csharp2204.exe
+C:\Users\Tecnico\source\repos\Csharp2204\Csharp2204\bin\Debug\Csharp2204.pdb
+C:\Users\Tecnico\source\repos\Csharp2204\Csharp2204\obj\Debug\Csharp2204.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\Csharp2204\Csharp2204\obj\Debug\Csharp2204.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\Csharp2204\Csharp2204\obj\Debug\Csharp2204.exe
+C:\Users\Tecnico\source\repos\Csharp2204\Csharp2204\obj\Debug\Csharp2204.pdb
